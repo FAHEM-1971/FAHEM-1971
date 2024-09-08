@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FAHEM-1971
 - 👀 I’m interested in Software Quality Assurance 
 - 🌱 I’m currently learning SDLC,STLC,Manual testing,Automation Testing,Api testing, performance testing, load and stress testing,
-- database testing,system testing, programming language,database,cypress and so on.
+- database testing,system testing, programming language,OOP,database,cypress and so on.
 - 💞️ I’m looking to collaborate on manual and automation projects.
 - 📫 How to reach me faysalhossainfahem@gmail.com
 - 😄 Pronouns: ...
